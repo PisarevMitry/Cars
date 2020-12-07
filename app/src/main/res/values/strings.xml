@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Cars</string>
+    <string name="TODO">TODO</string>
+    <string name="Compact">Compact</string>
+    <string name="filters">Filters</string>
+    <string name="economy">Economy</string>
+    <string name="mini">Mini</string>
+    <string name="compact">Compact</string>
+    <string name="berlin" translatable="false">BERLIN</string>
+    <string name="todo">TODO</string>
+</resources>

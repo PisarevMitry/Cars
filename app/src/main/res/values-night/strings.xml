@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="TODO">TODO</string>
+    <string name="Compact">Compact</string>
+    <string name="filters" translatable="false">Filters</string>
+    <string name="economy" translatable="false">Economy</string>
+    <string name="mini" translatable="false">Mini</string>
+    <string name="compact" translatable="false">Compact</string>
+    <string name="todo" translatable="false">TODO</string>
+</resources>
